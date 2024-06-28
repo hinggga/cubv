@@ -72,7 +72,7 @@
                                             <li><a href="./email-inbox.html">Batuah</a></li>
                                             <li><a href="./email-read.html">Paramu</a></li>
                                             <li><a href="./email-compose.html">Siraya</a></li>
-                                            <li><a href="./email-inbox.html">Langko</a></li>
+                                            <li><a href="./email-inbox.html">Langko 22</a></li>
                                             <li><a href="./email-read.html">Bahata 22</a></li>
                                             <li><a href="./email-compose.html">Topokng</a></li>
                                             <li><a href="./email-inbox.html">Banih</a></li>
