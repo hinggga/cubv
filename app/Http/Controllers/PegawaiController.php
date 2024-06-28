@@ -31,4 +31,6 @@ class PegawaiController extends Controller
         $paramu = DB::table('paramu')->pluck('created_at')->last();
         return view('daftar-anggotaPegawai', compact('anggota','detailanggota','hitung','test','totalperempuan','totallaki','aktif','tanggal','pokok','sapala','langko','siraya','wajib','pahar','batuah','banih','paramu','topokng','bahata'));
     }
+
+    
 }
